@@ -29,5 +29,3 @@ Le pipeline génère 3 outputs cohérents pour chaque patient virtuel :
 - GAN convergé en 1500 epochs sur CPU
 - ECG synthétiques avec morphologie PQRST réaliste
 - Patients virtuels exportés en JSON structuré
-
-## 📁 Structure
